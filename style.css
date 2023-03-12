@@ -4,9 +4,20 @@ h2{
     color: yellow;
 }
 
+.main {
+    display: inline-flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
 .column{
-    background-color: aquamarine;
     width: 172px;
-    height: 300px;
-    display: inline-block;
+}
+
+.column:hover{
+    border: 1px solid grey;
+}
+
+.text {
+    text-align: center;
 }
