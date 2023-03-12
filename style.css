@@ -1,0 +1,12 @@
+h2{
+    background-color: grey;
+    text-align: center;
+    color: yellow;
+}
+
+.column{
+    background-color: aquamarine;
+    width: 172px;
+    height: 300px;
+    display: inline-block;
+}
